@@ -1,14 +1,3 @@
-# PVT-SN-SAM-RN.github.io
-Advancing AI-Powered Robotic Vision for Autonomous Analysis of Dense Crops in Wild Environments
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
-
-
 # Advancing AI-Powered Robotic Vision for Dense Crop Analysis
 **Authors**: Muhammad Owais, Muhammad Zubair, Aftab Alam, Shamal Mohammed, Lakmal Seneviratne, Irfan Hussain  
 **Affiliations**: Khalifa University, Silal Innovation Oasis, King Fahd University of Petroleum and Minerals  
