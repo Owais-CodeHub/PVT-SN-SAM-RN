@@ -17,7 +17,7 @@ This project focuses on advancing robotic vision for densely fruited crops under
 ---
 
 ### Dataset
-![Dataset Samples](images/Figure 4_Dataset Samples.png)  
+![Dataset Samples](Images/Figure 4_Dataset Samples.png)  
 *Figure 2: Samples from the Datasets*  
 
 Explore the datasets designed for dense crop analysis:
