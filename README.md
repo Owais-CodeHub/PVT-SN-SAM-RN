@@ -4,7 +4,7 @@
 ---
 
 ### Overview
-![Dense Crop Detection](Images/Figure 4_Dataset Samples.png)  
+![Dense Crop Detection](Images/A.png)  
 *Figure 1: Overview of the Dense Crop Detection Framework*  
 
 This project focuses on advancing robotic vision for densely fruited crops under challenging real-world conditions. It introduces:
