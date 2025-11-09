@@ -1,5 +1,5 @@
-# Advancing AI-Powered Robotic Vision for Dense Crop Analysis
-**Authors**: Muhammad Owais, Muhammad Zubair, Aftab Alam, Shamal Mohammed, Lakmal Seneviratne, Irfan Hussain  
+# AgriVision: A Benchmark Dataset for Advancing Real-World Robotic Vision in Densely Fruited Blueberry Crop
+**Authors**: Muhammad Owais,Muhammad Shafay, Muhammad Zubair, Shamal Mohammed, Lakmal Seneviratne, Irfan Hussain  
 
 ---
 
